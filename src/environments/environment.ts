@@ -1,12 +1,11 @@
 export const environment = {
   firebase: {
-    apiKey: "AIzaSyC104_NrGRpbecYslnOIgR8Y9EG_lWgBTQ",
-    authDomain: "fir-chat-e06df.firebaseapp.com",
-    projectId: "fir-chat-e06df",
-    storageBucket: "fir-chat-e06df.firebasestorage.app",
-    messagingSenderId: "912644726160",
-    appId: "1:912644726160:web:ba4cfdbb81667b90452715",
-    measurementId: "G-F25D8GFK29"
+    apiKey: "AIzaSyAvFQdgUTwcqKnlEOoXs17xb9BaLagEVDo",
+    authDomain: "friendlychat-8f874.firebaseapp.com",
+    projectId: "friendlychat-8f874",
+    storageBucket: "friendlychat-8f874.firebasestorage.app",
+    messagingSenderId: "789618860304",
+    appId: "1:789618860304:web:ec03d6df29fb3518a6c595"
   },
 };
 
